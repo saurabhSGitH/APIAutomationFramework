@@ -29,7 +29,7 @@ public class LoginAPITest3 {
 		Assert.assertTrue(loginResponse.getToken() != null);
 		//ALOK1234@yahoo.com
 		//Assert.assertEquals(loginResponse.getEmail(),"deva@gamil.com");
-		Assert.assertEquals(loginResponse.getEmail(),"ALOK1234@yahoo.com");
+		Assert.assertEquals(loginResponse.getEmail(),"ALOK124@yahoo.com");
 		Assert.assertEquals(loginResponse.getId(),1);
 		
 	}
