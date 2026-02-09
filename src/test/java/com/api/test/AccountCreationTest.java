@@ -15,8 +15,8 @@ public class AccountCreationTest {
 	public void createAccountTest() {
 		
 		SignUpRequest signUpRequest = new SignUpRequest.Builder()
-		.userName("megha@2508") //Change for new request
-		.email("saurabhk1109@gamil.com") // Change for new request
+		.userName("megha1304@2") //Change for new request
+		.email("saurabhk11090@gamil.com") // Change for new request
 		.firstName("Uday")
 		.lastName("Kumar")
 		.mobileNumber("9145134528")
